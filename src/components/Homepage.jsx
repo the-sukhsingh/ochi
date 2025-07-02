@@ -55,7 +55,7 @@ const Homepage = () => {
             </div>
             <div className="masker flex items-center justify-start flex-wrap gap-2 overflow-hidden pb-2 ">
               <div className=" h-[30vw] w-[55vw] rounded-md bg-green-500 relative top-2 sm:h-[16vh] sm:w-[25vh] overflow-hidden">
-                <img className="h-full w-full " src="/presentation.png "></img>
+                <img className="h-full w-full " src="./presentation.png "></img>
               </div>
               <h1 className="uppercase  leading-none font-bold tracking-[-0.05em] is-inview text-[15vw] md:text-[10vw] lg:text-[8vw]">
                 Eye opening
