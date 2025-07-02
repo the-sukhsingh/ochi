@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Founder Grotesk';
+    src: url('/Founders_Grotesk/FoundersGrotesk-Bold.otf') format('woff2'),
+        url('/Founders_Grotesk/FoundersGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-founder-grotesk {
+    font-family: 'Founder Grotesk', sans-serif;
+}
+body {
+    background: rgb(244 244 245);
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
