@@ -2,7 +2,7 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <div className="w-full" data-scroll-section data-scroll data-scroll-speed="100000">
+    <div className="w-full" data-scroll-section data-scroll data-scroll-speed="40">
       <h2 className=" px-2 pt-10 pb-3 border-b-[2px] border-zinc-800 text-[9vw] md:text-[3vw] sm:border-b-[1px] sm:px-4 tracking-tighter sm:font-semibold font-bold capitalize" 
 >
         Featured projects

@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className="py-10" data-scroll-section data-scroll data-scroll-speed="450">
+    <div className="py-10" data-scroll-section data-scroll data-scroll-speed="40">
       <div className="border-t-[1px] border-zinc-800">
         <div className="flex flex-wrap p-10 w-full items-center justify-center gap-5">
           <div className="w-[45%] min-w-[320px] flex items-center justify-center gap-5  flex-col-reverse">
