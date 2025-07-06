@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav data-scroll data-scroll-section data-scroll-spped="8" className="flex justify-between items-center px-8 py-5 bg-white">
+    <nav className="flex justify-between items-center px-8 py-5 bg-white">
       <div>
         <svg
           width="72"
@@ -43,7 +43,7 @@ const Navbar = () => {
 
 const Homepage = () => {
   return (
-    <div data-scroll data-scroll-section data-scroll-speed="2">
+    <div>
       <Navbar />
       <div>
         <div className="w-full min-h-[55vh] pt-10 px-5 pr-5 font-['Founder Grotesk']  sm:min-h-[67vh]">

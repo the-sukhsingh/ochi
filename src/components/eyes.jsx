@@ -24,7 +24,7 @@ const Eyes = () => {
 
 
   return (
-    <div  data-scroll data-scroll-section data-scroll-speed="40" >
+    <div>
 
     <div className=" flex items-center justify-center w-full h-[80vh] min-w-[320px] min-h-[250px] bg-[url('/bg.jpeg')] bg-cover sm:w-full sm:rounded-none lg:hover:w-full lg:hover:h-[80vh] lg:hover:rounded-none lg:transition-all" 
         >
