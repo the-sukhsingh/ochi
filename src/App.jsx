@@ -6,8 +6,6 @@ import Homepage from './components/Homepage'
 import Projects from './components/Projects'
 import VideoPage from './components/VideoPage'
 
-import LocomotiveScroll from "locomotive-scroll";
-const locomotiveScroll = new LocomotiveScroll();
 
 function App() {
  
